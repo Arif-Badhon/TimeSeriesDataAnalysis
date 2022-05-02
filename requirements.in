@@ -6,3 +6,4 @@ matplotlib
 pymongo
 pymongo[srv]
 python-decouple
+bokeh
